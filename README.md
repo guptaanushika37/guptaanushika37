@@ -1,30 +1,5 @@
 
 
-Anushika_SDE (2) (1).pdf
-PDF
-कन्वर्ट this into GitHub front page readme. Make it as stylish as possible and make the skills pop more. Like I want to highlight the skills in the front page of my readme of GitHub
-
-12:32 AM
-Created a stylish, skills-first GitHub profile README with:
-
-Colorful badges grouped by technical area
-Featured projects and career highlights
-Expandable experience details
-LinkedIn, email, and coding-profile links
-Download README.md
-
-Copy it into the README.md of the guptaanushika37/guptaanushika37 repository.
-
-Based on Anushika_SDE (2) (1).pdf
-
-
-Edited README.md
-+151
--0
-12:33 AM
-
-
-
 output/anushika-github-profile/README.md
 <div align="center">
 
