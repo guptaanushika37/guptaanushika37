@@ -1,3 +1,5 @@
+[Projects](#selected-repositories) · [Technical toolkit](#-my-technical-toolkit) · [Contact me](mailto:guptaanushika37@gmail.com)
+
 
 <div align="center">
 
