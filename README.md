@@ -74,24 +74,3 @@ Building backend services, connected web experiences, and practical AI workflows
 **CS foundations:** Data Structures & Algorithms · OOP · DBMS · Operating Systems · Computer Networks
 
 ---
-
-## 🚀 Featured Projects
-
-### MeetMind · AI Meeting Platform
-
-**Real-time meetings with AI-powered follow-through.**
-
-`Next.js` `TypeScript` `OpenAI API` `PostgreSQL` `Drizzle ORM` `Inngest` `Stream Video SDK`
-
-- Built video conferencing, meeting management, and customizable AI agents.
-- Integrated meeting summaries, transcript processing, and contextual AI chat.
-- Implemented asynchronous background jobs and relational database schemas.
-
-### BlogSphere · Full-Stack Blogging Platform
-
-**A publishing experience with authentication and structured data.**
-
-`Next.js` `TypeScript` `PostgreSQL` `Prisma ORM` `Clerk`
-
-- Implemented post creation, reading, updates, and deletion through RESTful APIs.
-- Designed relational data models with PostgreSQL and Prisma.
