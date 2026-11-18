@@ -1,6 +1,4 @@
 
-
-output/anushika-github-profile/README.md
 <div align="center">
 
 # Hi, I'm Anushika Gupta 👋
