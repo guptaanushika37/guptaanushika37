@@ -77,16 +77,4 @@ Building backend services, connected web experiences, and practical AI workflows
 
 ---
 
-
-## Selected Repositories
-
-Explore my work across web development and machine learning.
-
-| Repository | Language / format |
-| --- | --- |
-| [Task Manager Backend](https://github.com/guptaanushika37/task-manager-backend) | JavaScript |
-| [Blog App](https://github.com/guptaanushika37/blogapp) | TypeScript |
-| [Job Portal](https://github.com/guptaanushika37/jobportal) | JavaScript |
-| [Brain Tumor Detection using CNN](https://github.com/guptaanushika37/Brain-Tumor-Detection-using-CNN-) | Jupyter Notebook |
-
 [Browse all repositories →](https://github.com/guptaanushika37?tab=repositories)
